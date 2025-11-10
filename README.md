@@ -12,7 +12,7 @@ Each checklist is designed for use by compliance, legal, or business professiona
 ###  Contract Review Checklists
 | Type | File Link | Description |
 |------|------------|-------------|
-|  **Service Contract** | [Service Contract Review Checklist](02_Contract_Lifecycle/Contract_Review_Checklists.md#-service-contract-review-checklist) | Covers deliverables, SLAs, payments, and liabilities. |
+|  **Service Contract** | [Service Contract Review Checklist](service-contract-review-checklist.md#-service-contract-review-checklist) | Covers deliverables, SLAs, payments, and liabilities. |
 |  **Employment Contract** | [Employment Contract Review Checklist](02_Contract_Lifecycle/Contract_Review_Checklists.md#-employment-contract-review-checklist) | Reviews roles, compensation, termination, and IP clauses. |
 |  **Business / Joint Venture Contract** | [Business Contract Review Checklist](02_Contract_Lifecycle/Contract_Review_Checklists.md#-business-partnership--joint-venture-contract-review-checklist) | Governance, contributions, profit sharing, and exit clauses. |
 |  **Sales Contract** | [Sales Contract Review Checklist](02_Contract_Lifecycle/Contract_Review_Checklists.md#-sales-contract-review-checklist) | Product details, pricing, warranties, and risk transfer. |
