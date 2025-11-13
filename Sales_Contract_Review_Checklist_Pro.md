@@ -1,4 +1,4 @@
-# 🧾 SALES CONTRACT REVIEW CHECKLIST (Exhaustive, Professional)
+#  SALES CONTRACT REVIEW CHECKLIST (Exhaustive, Professional)
 
 > A comprehensive checklist for reviewing **Sales Contracts / Sales of Goods Agreements / Supply Agreements**.  
 > Suitable for legal, procurement, commercial, and compliance teams.  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 QUICK INDEX
+##  QUICK INDEX
 - [A. Parties & Background](#a-parties--background)
 - [B. Definitions & Interpretation](#b-definitions--interpretation)
 - [C. Scope of Goods & Specifications](#c-scope-of-goods--specifications)
