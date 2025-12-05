@@ -2,7 +2,7 @@
 A collection of free, open-source contract templates and legal documents for local communities and non-profit initiatives
 ---
 
-##  Contract Lifecycle & Review Checklists
+##  Contract Lifecycle & Review Checklists :
 
 This section contains detailed, practical checklists and templates for reviewing and managing different types of contracts.  
 Each checklist is designed for use by compliance, legal, or business professionals to ensure key clauses and risks are thoroughly evaluated before execution.
