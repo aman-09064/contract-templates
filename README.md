@@ -27,4 +27,4 @@ Each checklist is designed for use by compliance, legal, or business professiona
 
 | Template | File Link | Description |
 |-----------|------------|-------------|
-| 🤝 **Memorandum of Understanding (MoU)** | [MoU Template (Pro)](03_Legal_Documents/MOU_Templ_)
+|  **Memorandum of Understanding (MoU)** | [MoU Template (Pro)](03_Legal_Documents/MOU_Templ_)
