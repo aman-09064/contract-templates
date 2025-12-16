@@ -1,4 +1,4 @@
-BUSINESS PARTNERSHIP / JOINT VENTURE CONTRACT REVIEW CHECKLIST
+BUSINESS PARTNERSHIP / JOINT VENTURE CONTRACT REVIEW CHECKLIST:
 
 **Purpose:**  
 A Business Contract defines how two or more parties collaborate for mutual commercial benefit. It covers equity, governance, and risk allocation.
