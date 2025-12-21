@@ -26,7 +26,6 @@
 
 ---
 
----
 
 ## A. Parties & Background
 
@@ -38,9 +37,7 @@
 | Related entities/subsidiaries involved? | ☐ | |
 | Background & purpose (Recitals) clear | ☐ | |
 | Whether the contract is B2B or B2C (different laws apply) | ☐ | |
-
 ---
-
 ## B. Definitions & Interpretation
 
 | Item | Check | Notes |
