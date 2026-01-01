@@ -17,3 +17,4 @@ A Service Contract defines the terms between a service provider and a client for
 | **IP Rights** | Ownership of deliverables, licensing terms, and moral rights. |  |  |
 | **Governing Law** | Jurisdiction and dispute resolution method. |  |  |
 | **Force Majeure** | Coverage of events beyond control. |  |  |
+---
