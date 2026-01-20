@@ -13,3 +13,4 @@ A Sales Contract specifies the terms for the sale and purchase of goods or servi
 | **Liability & Indemnity** | Limitations and indemnification clauses. |  |  |
 | **Force Majeure** | Definition and scope. |  |  |
 | **Dispute Resolution** | Governing law and arbitration clauses. |  |  |
+---
