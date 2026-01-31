@@ -51,4 +51,109 @@ The Franchisee shall:
 - Supply the operational Manual.
 - Assist in establishment and operation.
 - Provide updates, advertising material, newsletters, and guidance.
-- Offer continuing assistance as reasonably requ
+- Offer continuing assistance as reasonably required.
+
+### 5. Fees Payable
+The Sub-Franchisee shall pay:
+1. ₹10,00,000 on execution.
+2. Monthly franchise fee @ **12%** of gross invoices.
+3. **2%** of gross turnover towards advertising fund.
+
+### 6. Obligations of Sub-Franchisee
+The Sub-Franchisee undertakes to:
+- Maintain adequate funds.
+- Commence business within one month.
+- Maintain quality standards.
+- Keep confidential all manuals and systems.
+- Obtain licenses and comply with laws.
+- Avoid competing businesses.
+- Operate solely from the Premises.
+- Maintain insurance and indemnify Franchisee and Franchiser.
+
+### 7. Audit & Inspection
+Authorized representatives may inspect and audit accounts. Any deficiency shall be rectified within **15 days**, with interest @ **2% per month**.
+
+### 8. Quality Control
+The Franchisee and Franchiser may inspect product quality and operational standards at all reasonable times.
+
+### 9. Accounts
+Proper accounts shall be maintained and annual financial statements submitted within **30 days** of the financial year end.
+
+### 10. Assignment
+No assignment or transfer without written consent. Franchisee retains a right of first refusal.
+
+### 11. Termination
+The Franchisee may terminate upon events of default including:
+- Failure to commence business.
+- Breach of agreement.
+- Insolvency.
+- Non-payment.
+- Disclosure of confidential information.
+- Quality failures.
+
+### 12. Effects of Termination
+Upon termination:
+- Business operations cease.
+- Trade Marks and manuals returned.
+- All dues paid within **7 days**.
+- Non-compete obligation for **1 year**.
+- Power of Attorney granted to Franchisee for enforcement.
+
+### 13. Waiver
+No waiver or delay shall prejudice Franchisee’s rights.
+
+### 14. Insurance
+Mandatory insurance policies to be maintained and deposited with the Franchisee.
+
+### 15. Arbitration
+Disputes shall be referred to **Indian Council of Arbitration, New Delhi**, under the **Arbitration and Conciliation Act, 1996**.
+
+### 16. Governing Law
+This Agreement shall be governed by the **laws of India**.
+
+### 17. Amendments
+Amendments only by written agreement.
+
+### 18. Notices
+All notices shall be in writing and deemed served upon dispatch.
+
+### 19. Parent Franchise Agreement
+This Agreement is subject to the principal Franchise Agreement.
+
+### 20. Force Majeure
+Neither party shall be liable for failure due to force majeure events.
+
+### 21. Execution
+This Agreement shall be executed in **triplicate**.
+
+### 22. Costs
+Stamp duty and expenses shall be borne by the Sub-Franchisee.
+
+### 23. Entire Agreement
+All prior agreements stand superseded.
+
+### 24. Headings
+Clause headings are for convenience only.
+
+### 25. Severability
+Invalid provisions shall not affect the remainder.
+
+---
+
+## IN WITNESS WHEREOF
+
+**For XYZ Co. Ltd. (Franchisee)**  
+Signed by Shri …………………  
+Managing Director  
+
+Witnesses:  
+1.  
+2.  
+
+**For ABC Co. Ltd. (Sub-Franchisee)**  
+Signed by Shri …………………  
+Managing Director  
+
+Witnesses:  
+1.  
+2.  
